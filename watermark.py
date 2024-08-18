@@ -67,10 +67,10 @@ def add_watermark_to_folder(input_folder, output_folder, watermark_text, font_pa
     except Exception as e:
         print(f"An error occurred: {e}")
 def main():
-    input_folder = input("File path: ")
+    input_folder = input("File path of images to be watermarked: ")
     output_folder = input("File path for saved watermark images: ")
     watermark_text = input("Watermark Text: ")
-    font_path = input("text_font file path: ")
+    font_path = "fonts/Arial Unicode.ttf"
     font_size = int(input("Interger Font_size: "))
     transparency = int(input("Text transparency( 0 - 255 where 0 is fully transparent and 255 is fully opaque): "))
 
