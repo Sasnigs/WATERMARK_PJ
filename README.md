@@ -30,7 +30,6 @@ This script adds a watermark to all image files within a specified input folder 
    - The file path of the input folder containing the images.
    - The file path of the output folder where watermarked images will be saved.
    - The watermark text.
-   - The file path of the font (e.g., TTF file).
    - The font size (integer).
    - The transparency of the text.
 
