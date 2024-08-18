@@ -35,3 +35,8 @@ This script adds a watermark to all image files within a specified input folder 
 
      
 Video walkthrough: https://youtu.be/wyk-wb8iAfw
+
+EXAMPLES OF WATERMARKED IMAGES:
+<img width="858" alt="Screenshot 2024-08-18 at 10 47 22" src="https://github.com/user-attachments/assets/609574cc-4940-45dc-9e2b-b0d2462a1d03">
+
+<img width="858" alt="Screenshot 2024-08-18 at 10 48 18" src="https://github.com/user-attachments/assets/3b45d22f-ee52-45bd-9c04-4535f3e4163b">
