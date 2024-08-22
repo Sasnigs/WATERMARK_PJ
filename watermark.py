@@ -18,7 +18,7 @@ def add_watermark_to_folder(input_folder, output_folder, watermark_text, font_pa
         files = os.listdir(input_folder)
 
         # Filter image files
-        image_files = [file for file in files if file.lower().endswith(('jpg', 'jpeg', 'png', 'bmp', 'gif'))]
+        image_files = [file for file in files if file.lower().endswith(('jpg', 'jpeg', 'png', 'bmp'))]
 
         if not image_files:
             print(f"No image files found in {input_folder}.")
